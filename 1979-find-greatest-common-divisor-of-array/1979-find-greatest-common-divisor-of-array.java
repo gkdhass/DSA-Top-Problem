@@ -7,7 +7,8 @@ class Solution {
             max = Math.max(max , n);
             min = Math.min(min , n);
         }
-        return gcd(max,min);
+        int num = gcd(max,min);
+        return num;
     }
 
     public static int gcd(int a , int b){
