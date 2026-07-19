@@ -58,4 +58,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
