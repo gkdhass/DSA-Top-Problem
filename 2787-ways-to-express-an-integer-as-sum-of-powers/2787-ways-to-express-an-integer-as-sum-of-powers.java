@@ -1,33 +1,14 @@
 class Solution {
-    Integer[][] dp;
-    static final int mod = 1000000007;
     public int numberOfWays(int n, int x) {
-        dp = new Integer[n+1][301];
-        return power(n,1,x);
-    }
-    public int power(int t , int n, int x) {
+        long[] dhass = new long[n+1];
+        dhass[0] = 1;
 
-        if( t == 0){
-            return 1;
+        for(int i=1; Math.pow(i,x) <= n; i++){
+            int p = (int) Math.pow(i,x);
+            for(int m=n; p<=m; m--){
+                dhass[m] += dhass[m-p];
+            }
         }
-        
-        int pow =(int) Math.pow(n , x);
-
-        if(pow > t){
-            return 0;
-        }
-
-        if(dp[t][n] != null){
-            return dp[t][n];
-        }
-
-        int a = power(t-pow , n+1 , x);
-        int b = power(t,n+1,x);
-
-        dp[t][n] = (int)(((long) a+b) % mod);
-
-        return dp[t][n];
-
-        
+        return (int) (dhass[n] % 1000000007);
     }
 }
