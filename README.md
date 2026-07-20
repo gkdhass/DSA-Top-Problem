@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
+| [1260-shift-2d-grid](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Queue
@@ -18,6 +19,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1260-shift-2d-grid/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -66,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0020-valid-parentheses/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
