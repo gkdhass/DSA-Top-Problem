@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1260-shift-2d-grid](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1260-shift-2d-grid/) | Easy |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0027-remove-element/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
 ## Math
@@ -104,4 +106,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
