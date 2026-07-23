@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -43,6 +44,7 @@
 | [0050-powx-n](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@
 | [0073-set-matrix-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -127,4 +131,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
