@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
@@ -89,6 +90,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
@@ -178,4 +180,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
