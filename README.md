@@ -61,6 +61,7 @@
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0541-reverse-string-ii/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +186,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0062-unique-paths/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
