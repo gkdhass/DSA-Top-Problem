@@ -8,7 +8,7 @@ class Solution {
 
         return str1.substring(0,num);
     }
-    private int gcd(int a , int b){
+    static int gcd(int a , int b){
         while(b != 0){
             int num = a % b;
             a = b;
