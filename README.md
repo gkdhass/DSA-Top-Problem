@@ -175,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+| [0401-binary-watch](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0401-binary-watch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,4 +201,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0401-binary-watch](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
