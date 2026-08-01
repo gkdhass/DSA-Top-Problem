@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
+| [0477-total-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -60,6 +61,7 @@
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+| [0477-total-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -177,6 +179,7 @@
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0401-binary-watch](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0461-hamming-distance/) | Easy |
+| [0477-total-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0477-total-hamming-distance/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
