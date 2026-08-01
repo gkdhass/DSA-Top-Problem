@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
+| [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -59,6 +60,7 @@
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+| [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -68,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0050-powx-n/) | Medium |
+| [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +98,7 @@
 | [0062-unique-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -192,4 +196,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
