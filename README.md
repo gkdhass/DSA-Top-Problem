@@ -176,6 +176,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0401-binary-watch](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0401-binary-watch/) | Easy |
+| [0461-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0461-hamming-distance/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
