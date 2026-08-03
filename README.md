@@ -26,6 +26,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1089-duplicate-zeros](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1089-duplicate-zeros/) | Easy |
 | [1260-shift-2d-grid](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1260-shift-2d-grid/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -85,6 +86,7 @@
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
