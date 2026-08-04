@@ -29,6 +29,7 @@
 | [1260-shift-2d-grid](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1260-shift-2d-grid/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -109,6 +110,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0877-stone-game/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
