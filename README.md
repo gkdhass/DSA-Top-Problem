@@ -135,6 +135,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1496-path-crossing](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1496-path-crossing/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
