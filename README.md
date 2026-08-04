@@ -33,6 +33,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [3731-find-missing-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3731-find-missing-elements/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1496-path-crossing](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1496-path-crossing/) | Easy |
+| [3731-find-missing-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3731-find-missing-elements/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +189,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3731-find-missing-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
