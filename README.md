@@ -18,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0477-total-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
@@ -60,6 +61,7 @@
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0541-reverse-string-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -97,6 +99,7 @@
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1496-path-crossing](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1496-path-crossing/) | Easy |
@@ -184,6 +187,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -197,6 +201,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
