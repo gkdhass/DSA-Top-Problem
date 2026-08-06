@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0162-find-peak-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -198,6 +199,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0069-sqrtx/) | Easy |
+| [0162-find-peak-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0278-first-bad-version/) | Easy |
