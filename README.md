@@ -197,6 +197,7 @@
 | [0069-sqrtx](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -290,6 +291,7 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
