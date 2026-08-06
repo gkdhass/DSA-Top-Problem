@@ -13,7 +13,7 @@ class Solution {
             else if(s < num){
                 left = mid +1;
             }
-            else if(s > num){
+            else {
                 right = mid - 1;
             }
         }
