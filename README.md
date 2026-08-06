@@ -29,6 +29,7 @@
 | [0724-find-pivot-index](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -203,6 +204,7 @@
 | [0367-valid-perfect-square](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -303,4 +305,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
