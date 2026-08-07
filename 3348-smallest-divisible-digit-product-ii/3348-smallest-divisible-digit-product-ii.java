@@ -3,24 +3,36 @@ class Solution {
         // Step 1: Factorize t into prime factors 2, 3, 5, 7
         long tempT = t;
         int c2 = 0, c3 = 0, c5 = 0, c7 = 0;
-        
-        while (tempT % 2 == 0) { c2++; tempT /= 2; }
-        while (tempT % 3 == 0) { c3++; tempT /= 3; }
-        while (tempT % 5 == 0) { c5++; tempT /= 5; }
-        while (tempT % 7 == 0) { c7++; tempT /= 7; }
-        
+
+        while (tempT % 2 == 0) {
+            c2++;
+            tempT /= 2;
+        }
+        while (tempT % 3 == 0) {
+            c3++;
+            tempT /= 3;
+        }
+        while (tempT % 5 == 0) {
+            c5++;
+            tempT /= 5;
+        }
+        while (tempT % 7 == 0) {
+            c7++;
+            tempT /= 7;
+        }
+
         if (tempT > 1) {
             return "-1"; // Impossible if t has prime factors > 7
         }
 
         int N = num.length();
-        
+
         // Precompute prefix factor counts for num
         int[] p2 = new int[N + 1];
         int[] p3 = new int[N + 1];
         int[] p5 = new int[N + 1];
         int[] p7 = new int[N + 1];
-        
+
         int firstZero = N;
         for (int i = 0; i < N; i++) {
             char ch = num.charAt(i);
@@ -43,7 +55,7 @@ class Solution {
         // Try to find a valid string of length N by modifying digit at index i
         for (int i = Math.min(N - 1, firstZero); i >= 0; i--) {
             int startDigit = (i == firstZero) ? 1 : (num.charAt(i) - '0' + 1);
-            
+
             for (int d = startDigit; d <= 9; d++) {
                 int rem2 = Math.max(0, c2 - p2[i] - countFactor(d, 2));
                 int rem3 = Math.max(0, c3 - p3[i] - countFactor(d, 3));
@@ -63,7 +75,7 @@ class Solution {
         // If no string of length N works, construct the smallest string of length L > N
         int minD = minDigits(c2, c3, c5, c7);
         int L = Math.max(N + 1, minD);
-        
+
         StringBuilder sb = new StringBuilder();
         fillGreedySuffix(sb, L, c2, c3, c5, c7);
         return sb.toString();
@@ -71,7 +83,8 @@ class Solution {
 
     // Helper to count factor occurrences
     private int countFactor(int d, int p) {
-        if (d == 0) return 0;
+        if (d == 0)
+            return 0;
         int count = 0;
         while (d > 0 && d % p == 0) {
             count++;
@@ -87,7 +100,8 @@ class Solution {
 
     // Minimum digits needed for 2s and 3s using 8 (2^3), 9 (3^2), 4 (2^2), 6 (2*3), 3, 2
     private int minDigits23(int r2, int r3) {
-        if (r2 <= 0 && r3 <= 0) return 0;
+        if (r2 <= 0 && r3 <= 0)
+            return 0;
         int minD = Integer.MAX_VALUE;
         for (int k = 0; k <= 5; k++) {
             int rem2 = Math.max(0, r2 - k);
