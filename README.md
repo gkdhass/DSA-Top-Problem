@@ -83,6 +83,7 @@
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0441-arranging-coins/) | Easy |
 | [0477-total-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0477-total-hamming-distance/) | Medium |
@@ -103,6 +104,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0326-power-of-three/) | Easy |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
