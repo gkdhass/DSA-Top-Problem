@@ -70,6 +70,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0541-reverse-string-ii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1089-duplicate-zeros/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -164,6 +165,7 @@
 | [0290-word-pattern](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0541-reverse-string-ii/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1496-path-crossing](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1496-path-crossing/) | Easy |
@@ -279,6 +281,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Game Theory
