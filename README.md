@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0078-subsets/) | Medium |
@@ -300,6 +301,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0090-subsets-ii/) | Medium |
 | [0401-binary-watch](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0401-binary-watch/) | Easy |
