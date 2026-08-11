@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0078-subsets/) | Medium |
@@ -243,6 +244,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0047-permutations-ii/) | Medium |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
@@ -302,6 +304,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0090-subsets-ii/) | Medium |
 | [0401-binary-watch](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0401-binary-watch/) | Easy |
