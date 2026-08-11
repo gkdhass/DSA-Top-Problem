@@ -70,6 +70,7 @@
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -146,6 +147,7 @@
 | [0062-unique-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0877-stone-game/) | Medium |
@@ -166,6 +168,7 @@
 | [0125-valid-palindrome](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
