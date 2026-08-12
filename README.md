@@ -186,6 +186,7 @@
 | [0020-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -201,12 +202,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +220,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
