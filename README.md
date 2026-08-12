@@ -184,6 +184,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0739-daily-temperatures/) | Medium |
@@ -197,11 +198,13 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
@@ -211,6 +214,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0100-same-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Sliding Window
