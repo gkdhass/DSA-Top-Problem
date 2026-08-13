@@ -19,9 +19,9 @@ class Solution {
         height(root , res , 0);
         return res;
     }
-    static void height(TreeNode root , List<List<Integer>> res , int level){
+    public static void height(TreeNode root , List<List<Integer>> res , int level ){
         if(root == null){
-            return;
+           return;
         }
         if(res.size() == level){
             res.add(new ArrayList<>());
@@ -29,7 +29,8 @@ class Solution {
 
         res.get(level).add(root.val);
 
-        height(root.left , res , level + 1);
+        height(root.left , res, level + 1);
         height(root.right , res , level + 1);
+
     }
 }
