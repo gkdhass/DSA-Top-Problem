@@ -19,7 +19,7 @@ class Solution {
         inorder(root , res);
         return res;
     }
-    static void inorder(TreeNode root , List<Integer> res){
+    static void inorder(TreeNode root , List<Integer> res ){
         if(root == null){
             return;
         }
