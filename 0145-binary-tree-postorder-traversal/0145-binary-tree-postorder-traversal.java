@@ -24,7 +24,7 @@ class Solution {
             return;
         }
         postorder(root.left,res);
-        postorder(root.right,res);
+        postorder(root.right , res);
         res.add(root.val);
     }
 }
