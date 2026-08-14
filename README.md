@@ -209,6 +209,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +222,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +247,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
