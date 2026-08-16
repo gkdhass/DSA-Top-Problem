@@ -212,6 +212,7 @@
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +257,7 @@
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
