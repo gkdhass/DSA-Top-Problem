@@ -211,6 +211,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -227,6 +228,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -259,6 +261,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -416,4 +419,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0608-tree-node](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0608-tree-node/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
