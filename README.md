@@ -218,6 +218,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -238,6 +239,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -275,6 +277,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
