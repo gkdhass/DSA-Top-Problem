@@ -212,6 +212,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0257-binary-tree-paths/) | Easy |
@@ -273,6 +274,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0257-binary-tree-paths/) | Easy |
@@ -298,6 +300,7 @@
 | [0069-sqrtx](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -337,6 +340,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0090-subsets-ii/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0401-binary-watch](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0401-binary-watch/) | Easy |
