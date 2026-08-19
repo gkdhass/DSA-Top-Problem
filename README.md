@@ -216,6 +216,7 @@
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -278,6 +279,7 @@
 | [0226-invert-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -453,4 +455,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0450-delete-node-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
