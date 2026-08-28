@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0090-subsets-ii/) | Medium |
@@ -149,6 +150,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -402,6 +404,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Quickselect
