@@ -105,6 +105,7 @@
 | [0836-rectangle-overlap](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -160,6 +161,7 @@
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0877-stone-game/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2787-ways-to-express-an-integer-as-sum-of-powers/) | Medium |
@@ -168,6 +170,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
