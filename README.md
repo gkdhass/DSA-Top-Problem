@@ -75,6 +75,7 @@
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
@@ -178,6 +179,7 @@
 | [0257-binary-tree-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0680-valid-palindrome-ii/) | Easy |
