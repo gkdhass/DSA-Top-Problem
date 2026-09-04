@@ -55,6 +55,7 @@
 | [3731-find-missing-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +338,7 @@
 | [0724-find-pivot-index](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1140-stone-game-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
