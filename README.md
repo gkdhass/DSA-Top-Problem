@@ -90,6 +90,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0062-unique-paths/) | Medium |
@@ -120,6 +121,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0326-power-of-three/) | Easy |
@@ -493,4 +495,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
