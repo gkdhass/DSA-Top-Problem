@@ -113,6 +113,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
