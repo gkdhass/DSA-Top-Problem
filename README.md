@@ -53,6 +53,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3731-find-missing-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -115,6 +116,7 @@
 | [1140-stone-game-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1140-stone-game-ii/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
