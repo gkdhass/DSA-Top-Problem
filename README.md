@@ -51,6 +51,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [3731-find-missing-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -197,6 +198,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1496-path-crossing](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1496-path-crossing/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
