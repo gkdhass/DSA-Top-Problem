@@ -53,6 +53,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3731-find-missing-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
