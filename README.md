@@ -47,6 +47,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1550-three-consecutive-odds](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
