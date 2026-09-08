@@ -56,6 +56,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3731-find-missing-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -119,6 +120,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/gkdhass/DSA-Top-Problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
