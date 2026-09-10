@@ -69,6 +69,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1260-shift-2d-grid/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Two Pointers
@@ -106,6 +107,7 @@
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0367-valid-perfect-square/) | Easy |
+| [0412-fizz-buzz](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0441-arranging-coins/) | Easy |
 | [0477-total-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
@@ -200,6 +202,7 @@
 | [0344-reverse-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0412-fizz-buzz/) | Easy |
 | [0541-reverse-string-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0541-reverse-string-ii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
