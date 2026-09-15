@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0048-rotate-image/) | Medium |
@@ -79,6 +80,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0202-happy-number/) | Easy |
@@ -172,6 +174,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0070-climbing-stairs/) | Easy |
@@ -218,6 +221,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -388,6 +392,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0739-daily-temperatures/) | Medium |
 ## Heap (Priority Queue)
