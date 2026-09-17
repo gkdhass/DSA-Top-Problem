@@ -32,6 +32,7 @@
 | [0477-total-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
+| [0553-optimal-division](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0553-optimal-division/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0704-binary-search/) | Easy |
@@ -114,6 +115,7 @@
 | [0477-total-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0509-fibonacci-number/) | Easy |
+| [0553-optimal-division](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0553-optimal-division/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0877-stone-game/) | Medium |
@@ -182,6 +184,7 @@
 | [0392-is-subsequence](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0509-fibonacci-number/) | Easy |
+| [0553-optimal-division](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0553-optimal-division/) | Medium |
 | [0877-stone-game](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1140-stone-game-ii/) | Medium |
