@@ -15,6 +15,7 @@
 | [0047-permutations-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0090-subsets-ii/) | Medium |
@@ -367,6 +368,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0047-permutations-ii/) | Medium |
+| [0056-merge-intervals](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
@@ -451,6 +453,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
