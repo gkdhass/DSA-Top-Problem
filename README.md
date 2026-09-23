@@ -29,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0477-total-hamming-distance](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0477-total-hamming-distance/) | Medium |
@@ -157,6 +158,7 @@
 | [0219-contains-duplicate-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0290-word-pattern/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0496-next-greater-element-i/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -375,6 +377,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -406,6 +409,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -448,10 +452,12 @@
 | [0053-maximum-subarray](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,6 +467,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,4 +533,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0002-add-two-numbers/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
