@@ -26,6 +26,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -359,6 +360,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1140-stone-game-ii/) | Medium |
