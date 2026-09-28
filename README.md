@@ -222,6 +222,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1496-path-crossing](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1496-path-crossing/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/gkdhass/DSA-Top-Problem/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -239,6 +240,7 @@
 | [0739-daily-temperatures](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0739-daily-temperatures/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,4 +549,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
