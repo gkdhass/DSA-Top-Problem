@@ -510,6 +510,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0176-second-highest-salary/) | Medium |
+| [0584-find-customer-referee](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0584-find-customer-referee/) | Easy |
 | [0608-tree-node](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0608-tree-node/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
