@@ -518,6 +518,7 @@
 | [0176-second-highest-salary](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0180-consecutive-numbers/) | Medium |
 | [0584-find-customer-referee](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0585-investments-in-2016/) | Medium |
 | [0608-tree-node](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0608-tree-node/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
