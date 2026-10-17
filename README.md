@@ -520,6 +520,7 @@
 | [0184-department-highest-salary](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0184-department-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0584-find-customer-referee/) | Easy |
 | [0585-investments-in-2016](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0585-investments-in-2016/) | Medium |
+| [0601-human-traffic-of-stadium](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0608-tree-node](https://github.com/gkdhass/DSA-Top-Problem/tree/main/0608-tree-node/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/gkdhass/DSA-Top-Problem/tree/main/1070-product-sales-analysis-iii/) | Medium |
 ## DP on Trees
